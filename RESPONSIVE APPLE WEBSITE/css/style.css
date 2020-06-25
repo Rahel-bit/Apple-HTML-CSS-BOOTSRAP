@@ -129,7 +129,6 @@ body{
 }
 .links-wrapper ul li a:hover{
 	color: #000;
-
 }
 
 .links-wrapper ul li a:after{
@@ -286,8 +285,7 @@ body{
 
 
 	}
-.sixth-highlight-wrapper .right-side-wrapper{
-	
+.sixth-highlight-wrapper .right-side-inner-wrapper{
 	
 	height: 580px;
 	background-position: center;
@@ -298,8 +296,8 @@ body{
 	background-image:  url("../images/home/new-ipad.jpg"); 
 	background-size: initial;
 	background-color: #000;
-	background-position: bottom;
-	 
+	/*background-position: bottom;
+	 */
 }
 .apple-wrapper{
 	border-bottom: 1px solid #d2d3d7;
